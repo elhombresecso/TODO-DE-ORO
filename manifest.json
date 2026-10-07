@@ -1,0 +1,17 @@
+{
+  "name": "Descubriendo Buenos aires",
+  "short_name": "Descubriendo Bs As",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FF3366",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "playback.ico"
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
